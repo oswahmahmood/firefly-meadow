@@ -1,0 +1,7 @@
+{
+  "name": "firefly-meadow",
+  "version": "0.1.0",
+  "description": "Fireflies drifting over a dusky meadow; more gather as the context window fills",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "firefly-meadow",
+  "owner": {
+    "name": "oswahmahmood"
+  },
+  "plugins": [
+    {
+      "name": "firefly-meadow",
+      "source": "./"
+    }
+  ],
+  "description": "Fireflies drifting over a dusky meadow, a cozy look for Claude Code"
+}
